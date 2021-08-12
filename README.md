@@ -6,7 +6,7 @@
 
 Command Line Interface for improving your coding skills, as a part of the BreatheCo.de platform.
 - Hundreds of [exercises](https://breatheco.de/interactive-exercises) on Javascript, Node, Python, Java, Webpack, etc.
-- Hudreds of [projects](https://projects.breatheco.de/), with interactive video tutorials.
+- Hundreds of [projects](https://projects.breatheco.de/), with interactive video tutorials.
 - Gitpod Integration for on click coding environment.
 - Any idea? [Suggest new features or integrations here.](https://github.com/breatheco-de/breathecode-cli/issues/new)
 
